@@ -1,3 +1,4 @@
+//heavy elements will sink into the bottom
 void insertionSort(vector<int> &arr){
     int n = arr.size();
     for(int i=1; i<n; i++){

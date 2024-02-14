@@ -1,3 +1,4 @@
+//light elements will float to the top 
 void bubbleSort(vector<int> &arr){
     int n = arr.size(), i = n;
     while(i!=0){
